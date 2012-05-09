@@ -1,0 +1,40 @@
+html {
+  text-align: center;
+}
+
+body {
+  margin: 0 auto;
+  text-align: left;
+  width: 960px;
+}
+
+header {
+  padding-top: 28px;
+  height: 90px;
+  font-size: 20px;
+  background-color: #ccc;
+}
+
+section {
+  float: left;
+  width: 600px;
+}
+
+aside {
+  float: right;
+  width: 340px;
+}
+
+footer {
+  background-color: #ccc;
+}
+
+h1 {
+  margin: 0;
+  margin-left: 20px;
+  font-family: 'Averia Libre', cursive;
+}
+
+.clearer {
+  clear: both;
+}
